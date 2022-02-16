@@ -1,0 +1,11 @@
+Step 1: start
+Step 2: declare variable a,b,c,n,i
+step 3: initialize variable a=0, b=1 and i=2
+step 4: read n from the use 
+step 5: print a and b
+step 6: repeat untill i<=n ;
+          step 6.1: c=a+b
+          step 6.2: print c
+          step 6.3: a=b , b=c
+          step 6.4: i=i+1
+step 7: stop
